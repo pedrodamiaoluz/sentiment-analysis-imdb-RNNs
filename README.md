@@ -1,1 +1,1 @@
-# recurrent-neural-networks-RNNs
+# sentiment-analysis-imdb-RNNs
